@@ -1,0 +1,20 @@
+{
+  "countries": ["USA", "India"],
+  "counties": {
+    "USA": ["California", "Massachusetts", "Kansas", "Oregon"],
+    "India": ["Uttar Pradesh"]
+  },
+  "regions": {
+    "California": ["SierraNevada", "FlintHills", "Clackamas"],
+    "Massachusetts": ["HarvardForest", "ArnoldArboretum"],
+    "Kansas": ["FlintHills"],
+    "Oregon": ["Clackamas"],
+    "UttarPradesh": ["Agra", "Kanpur", "Lucknow", "Meerut", "Varanasi"]
+  },
+  "cropTypes": ["Cereal", "Vegetable", "Fruit"],
+  "cropNames": {
+    "Cereal": ["Corn", "Wheat"],
+    "Vegetable": ["Tomato", "Potato"],
+    "Fruit": ["Apple", "Mango"]
+  }
+}
