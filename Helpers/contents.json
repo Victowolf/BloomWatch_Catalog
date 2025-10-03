@@ -2,7 +2,7 @@
   "countries": ["USA", "India"],
   "counties": {
     "USA": ["California", "Massachusetts", "Kansas", "Oregon"],
-    "India": ["Uttar Pradesh"]
+    "India": ["UttarPradesh"]
   },
   "regions": {
     "California": ["SierraNevada"],
