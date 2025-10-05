@@ -11,10 +11,6 @@
     "Oregon": ["Clackamas"],
     "UttarPradesh": ["Agra", "Kanpur", "Lucknow", "Meerut", "Varanasi"]
   },
-  "cropTypes": ["Cereal", "Vegetable", "Fruit"],
-  "cropNames": {
-    "Cereal": ["Corn", "Wheat"],
-    "Vegetable": ["Tomato", "Potato"],
-    "Fruit": ["Apple", "Mango"]
-  }
+  "cropNames": ["Cereal", "Vegetable", "Fruit"]
+  
 }
