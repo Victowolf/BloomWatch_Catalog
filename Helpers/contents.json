@@ -11,6 +11,30 @@
     "Oregon": ["Clackamas"],
     "UttarPradesh": ["Agra", "Kanpur", "Lucknow", "Meerut", "Varanasi"]
   },
-  "cropNames": ["Cereal", "Vegetable", "Fruit"]
+  "cropNames": ["Wheat",
+  "Potato",
+  "Mustard",
+  "Sugarcane",
+  "Rice",
+  "Ornamental Trees",
+  "Shrubs",
+  "Native Plants",
+  "Hazelnut",
+  "Barley",
+  "Blueberries",
+  "Grass Seed",
+  "Sorghum",
+  "Corn",
+  "Soybeans",
+  "Tallgrass Prairie Hay",
+  "Vegetables",
+  "Brinjal",
+  "Cauliflower",
+  "Mangoes",
+  "Apples",
+  "Grapes",
+  "Berries",
+  "Almonds",
+  "Citrus"]
   
 }
